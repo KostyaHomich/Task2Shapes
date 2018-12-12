@@ -1,0 +1,8 @@
+2018-12-12 22:11:19 ERROR ReaderFromFile:37 - [Ljava.lang.StackTraceElement;@21588809
+2018-12-12 22:16:34 INFO  Validator:18 - Its not point or a rectangle
+2018-12-12 22:16:34 INFO  ReaderFromFile:29 - Figure are not created
+2018-12-12 22:17:47 ERROR ReaderFromFile:38 - [Ljava.lang.StackTraceElement;@21588809
+2018-12-12 22:24:56 INFO  Validator:18 - Its not point or a rectangle
+2018-12-12 22:24:56 INFO  ReaderFromFile:30 - Figure are not created
+2018-12-12 22:34:16 INFO  Validator:18 - Its not point or a rectangle
+2018-12-12 22:34:16 INFO  ReaderFromFile:30 - Figure are not created
