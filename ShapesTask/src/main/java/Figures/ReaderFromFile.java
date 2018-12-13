@@ -8,6 +8,7 @@ import java.io.FileReader;
 
 public class ReaderFromFile {
     private StringBuilder stringBuilder;
+    private String stroke;
     private String[] massOfString;
     private Point[] points;
     private Side[] sides;
@@ -15,29 +16,24 @@ public class ReaderFromFile {
 
     private static Logger log = Logger.getLogger(ReaderFromFile.class.getName());
 
-    public String readFromFile() {
+    public void readFromFile() {
         stringBuilder = new StringBuilder();
+
         try {
             File file=new File("coordinates.txt");
             String currentLine;
             try (BufferedReader br = new BufferedReader(new FileReader(file))) {
                 while ((currentLine = br.readLine()) != null) {
                     stringBuilder.append(currentLine);
-                    if (validator.validateStrokeFromFile(stringBuilder.toString()) && validator.validatePoints(stringBuilder.toString())) {
-                        createPoints(stringBuilder.toString());
-                        return stringBuilder.toString();
-                    } else {
-                        log.info("Figure are not created");
-                        stringBuilder=null;
+                    stroke=stringBuilder.toString();
+                    createPoints(stringBuilder.toString());
 
-                    }
                 }
 
             }
         } catch (Exception e) {
             log.error(e.getStackTrace());
         }
-        return "";
     }
 
     public void createPoints( String string) {
@@ -57,6 +53,11 @@ public class ReaderFromFile {
 
     public Point[] getPoints() {
         return points;
+    }
+
+    public String getStroke()
+    {
+        return stroke;
     }
 
 

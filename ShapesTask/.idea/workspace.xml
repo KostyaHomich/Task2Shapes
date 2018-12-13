@@ -13,25 +13,26 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="ReaderFromFile.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/Figures/ReaderFromFile.java">
+      <file leaf-file-name="ReaderFromFileTest.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/Figures/ReaderFromFileTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="136">
-              <caret line="20" column="50" lean-forward="true" selection-start-line="20" selection-start-column="50" selection-end-line="20" selection-end-column="50" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#1775#1776#0" expanded="true" />
-                <element signature="e#1804#1805#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="149">
+              <caret line="14" column="41" lean-forward="true" selection-start-line="14" selection-start-column="24" selection-end-line="14" selection-end-column="41" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ReaderFromFileTest.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/Figures/ReaderFromFileTest.java">
+      <file leaf-file-name="TypeDefinition.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/Figures/TypeDefinition.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="238">
-              <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
+            <state relative-caret-position="336">
+              <caret line="36" column="71" lean-forward="true" selection-start-line="36" selection-start-column="71" selection-end-line="36" selection-end-column="71" />
+              <folding>
+                <element signature="e#251#252#0" expanded="true" />
+                <element signature="e#279#280#0" expanded="true" />
+                <element signature="e#1523#1524#0" expanded="true" />
+                <element signature="e#1550#1551#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -40,7 +41,7 @@
         <entry file="file://$PROJECT_DIR$/src/main/resources/log4j.properties">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="255">
-              <caret line="15" column="38" selection-start-line="15" selection-start-column="38" selection-end-line="15" selection-end-column="38" />
+              <caret line="15" column="42" selection-start-line="15" selection-start-column="42" selection-end-line="15" selection-end-column="42" />
             </state>
           </provider>
         </entry>
@@ -66,15 +67,17 @@
         <option value="$PROJECT_DIR$/src/main/java/Figures/SquareFigure.java" />
         <option value="$PROJECT_DIR$/src/main/java/Side.java" />
         <option value="$PROJECT_DIR$/src/main/java/Figures/FigureManager.java" />
-        <option value="$PROJECT_DIR$/src/main/java/Figures/Validator.java" />
-        <option value="$PROJECT_DIR$/src/main/java/Figures/TypeDefinition.java" />
         <option value="$PROJECT_DIR$/src/Coordinates.txt" />
         <option value="$PROJECT_DIR$/pom.xml" />
-        <option value="$PROJECT_DIR$/src/test/java/Figures/ReaderFromFileTest.java" />
         <option value="$PROJECT_DIR$/Сoordinates.txt" />
-        <option value="$PROJECT_DIR$/src/main/java/Figures/ReaderFromFile.java" />
-        <option value="$PROJECT_DIR$/src/main/resources/log4j.properties" />
         <option value="$PROJECT_DIR$/.gitignore" />
+        <option value="$PROJECT_DIR$/src/main/resources/log4j.properties" />
+        <option value="$PROJECT_DIR$/src/test/java/Figures/ReaderFromFileTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Figures/ReaderFromFile.java" />
+        <option value="$PROJECT_DIR$/src/test/java/Figures/ValidatorTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Figures/Validator.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Figures/TypeDefinition.java" />
+        <option value="$PROJECT_DIR$/src/test/java/Figures/TypeDefinitionTest.java" />
       </list>
     </option>
   </component>
@@ -122,17 +125,15 @@
     <packageJsonPaths />
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-8" />
-    <option name="width" value="977" />
-    <option name="height" value="1038" />
+    <option name="x" value="-9" />
+    <option name="width" value="978" />
+    <option name="height" value="1039" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="AndroidView" />
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -157,6 +158,14 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ShapesTask" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ShapesTask" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="Figures" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="ShapesTask" type="b2602c69:ProjectViewProjectNode" />
@@ -191,6 +200,8 @@
         </subPane>
       </pane>
       <pane id="Scope" />
+      <pane id="AndroidView" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -229,9 +240,43 @@
       </list>
     </option>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="JUnit.TypeDefinitionTest.definitionOfType">
+    <configuration name="Validator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Figures.Validator" />
+      <module name="shapes" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Figures.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
     <configuration default="true" type="Application" factoryName="Application">
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+    </configuration>
+    <configuration name="ReaderFromFileTest.readFromFileFalse" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="shapes" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Figures.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="Figures" />
+      <option name="MAIN_CLASS_NAME" value="Figures.ReaderFromFileTest" />
+      <option name="METHOD_NAME" value="readFromFileFalse" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
     </configuration>
     <configuration name="ReaderFromFileTest.readFromFileTrue" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="shapes" />
@@ -246,6 +291,52 @@
       <option name="PACKAGE_NAME" value="Figures" />
       <option name="MAIN_CLASS_NAME" value="Figures.ReaderFromFileTest" />
       <option name="METHOD_NAME" value="readFromFileTrue" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
+    </configuration>
+    <configuration name="TypeDefinitionTest.definitionOfType" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="shapes" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Figures.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="Figures" />
+      <option name="MAIN_CLASS_NAME" value="Figures.TypeDefinitionTest" />
+      <option name="METHOD_NAME" value="definitionOfType" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
+    </configuration>
+    <configuration name="ValidatorTest.validateStrokeFromFile" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="shapes" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Figures.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="Figures" />
+      <option name="MAIN_CLASS_NAME" value="Figures.ValidatorTest" />
+      <option name="METHOD_NAME" value="validateStrokeFromFile" />
       <option name="TEST_OBJECT" value="method" />
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="PARAMETERS" />
@@ -294,9 +385,20 @@
       <properties />
       <listeners />
     </configuration>
+    <list>
+      <item itemvalue="JUnit.ReaderFromFileTest.readFromFileTrue" />
+      <item itemvalue="JUnit.ReaderFromFileTest.readFromFileFalse" />
+      <item itemvalue="JUnit.ValidatorTest.validateStrokeFromFile" />
+      <item itemvalue="Application.Validator" />
+      <item itemvalue="JUnit.TypeDefinitionTest.definitionOfType" />
+    </list>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.TypeDefinitionTest.definitionOfType" />
         <item itemvalue="JUnit.ReaderFromFileTest.readFromFileTrue" />
+        <item itemvalue="JUnit.ValidatorTest.validateStrokeFromFile" />
+        <item itemvalue="Application.Validator" />
+        <item itemvalue="JUnit.ReaderFromFileTest.readFromFileFalse" />
       </list>
     </recent_temporary>
   </component>
@@ -312,75 +414,76 @@
       <updated>1544638011848</updated>
       <workItem from="1544638017601" duration="710000" />
       <workItem from="1544638832568" duration="5075000" />
+      <workItem from="1544679394608" duration="2470000" />
     </task>
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="ReaderFromFileTest_readFromFileTrue - 2018.12.12 at 22h 06m 45s.xml">
+    <history-entry file="ValidatorTest_validateStrokeFromFile - 2018.12.13 at 08h 55m 50s.xml">
+      <configuration name="ValidatorTest.validateStrokeFromFile" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ValidatorTest_validateStrokeFromFile - 2018.12.13 at 08h 56m 20s.xml">
+      <configuration name="ValidatorTest.validateStrokeFromFile" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ValidatorTest_validateStrokeFromFile - 2018.12.13 at 08h 57m 35s.xml">
+      <configuration name="ValidatorTest.validateStrokeFromFile" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ValidatorTest_validateStrokeFromFile - 2018.12.13 at 09h 01m 10s.xml">
+      <configuration name="ValidatorTest.validateStrokeFromFile" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TypeDefinitionTest_definitionOfType - 2018.12.13 at 09h 06m 23s.xml">
+      <configuration name="TypeDefinitionTest.definitionOfType" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TypeDefinitionTest_definitionOfType - 2018.12.13 at 09h 07m 39s.xml">
+      <configuration name="TypeDefinitionTest.definitionOfType" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ReaderFromFileTest_readFromFileTrue - 2018.12.13 at 09h 09m 53s.xml">
       <configuration name="ReaderFromFileTest.readFromFileTrue" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="ReaderFromFileTest_readFromFileTrue - 2018.12.12 at 22h 07m 09s.xml">
-      <configuration name="ReaderFromFileTest.readFromFileTrue" configurationId="JUnit" />
+    <history-entry file="TypeDefinitionTest_definitionOfType - 2018.12.13 at 09h 15m 25s.xml">
+      <configuration name="TypeDefinitionTest.definitionOfType" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="ReaderFromFileTest_readFromFileTrue - 2018.12.12 at 22h 10m 10s.xml">
-      <configuration name="ReaderFromFileTest.readFromFileTrue" configurationId="JUnit" />
+    <history-entry file="TypeDefinitionTest_definitionOfType - 2018.12.13 at 09h 16m 13s.xml">
+      <configuration name="TypeDefinitionTest.definitionOfType" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="ReaderFromFileTest_readFromFileTrue - 2018.12.12 at 22h 11m 19s.xml">
-      <configuration name="ReaderFromFileTest.readFromFileTrue" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="ReaderFromFileTest_readFromFileTrue - 2018.12.12 at 22h 16m 34s.xml">
-      <configuration name="ReaderFromFileTest.readFromFileTrue" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="ReaderFromFileTest_readFromFileTrue - 2018.12.12 at 22h 17m 48s.xml">
-      <configuration name="ReaderFromFileTest.readFromFileTrue" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="ReaderFromFileTest_readFromFileTrue - 2018.12.12 at 22h 22m 03s.xml">
-      <configuration name="ReaderFromFileTest.readFromFileTrue" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="ReaderFromFileTest_readFromFileTrue - 2018.12.12 at 22h 24m 30s.xml">
-      <configuration name="ReaderFromFileTest.readFromFileTrue" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="ReaderFromFileTest_readFromFileTrue - 2018.12.12 at 22h 24m 56s.xml">
-      <configuration name="ReaderFromFileTest.readFromFileTrue" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="ReaderFromFileTest_readFromFileTrue - 2018.12.12 at 22h 34m 16s.xml">
-      <configuration name="ReaderFromFileTest.readFromFileTrue" configurationId="JUnit" />
+    <history-entry file="TypeDefinitionTest_definitionOfType - 2018.12.13 at 09h 17m 21s.xml">
+      <configuration name="TypeDefinitionTest.definitionOfType" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5785000" />
+    <option name="totallyTimeSpent" value="8255000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Messages" />
+      <window_info anchor="bottom" id="Messages" order="7" />
       <window_info anchor="right" id="Palette&#9;" order="3" />
       <window_info id="Image Layers" order="2" />
       <window_info anchor="right" id="Capture Analysis" order="3" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
       <window_info anchor="right" id="Maven Projects" order="3" weight="0.3294271" />
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.32965517" />
       <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32965517" />
       <window_info anchor="bottom" id="Terminal" order="7" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
       <window_info anchor="right" id="Database" order="3" />
-      <window_info anchor="bottom" id="Find" order="1" weight="0.32965517" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info id="UI Designer" order="2" />
       <window_info anchor="right" id="Theme Preview" order="3" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32965517" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -389,7 +492,36 @@
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="1" />
+    </breakpoint-manager>
+  </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/main/java/Figures/ReaderFromFile.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="20" column="50" lean-forward="true" selection-start-line="20" selection-start-column="50" selection-end-line="20" selection-end-column="50" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/Figures/ReaderFromFileTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/log4j.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" column="38" selection-start-line="15" selection-start-column="38" selection-end-line="15" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="187">
@@ -420,27 +552,7 @@
     <entry file="file://$PROJECT_DIR$/ShapesTask.iml">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/log4j">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Figures/Validator.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="422">
-          <caret line="28" column="34" lean-forward="true" selection-start-line="28" selection-start-column="34" selection-end-line="28" selection-end-column="34" />
-          <folding>
-            <element signature="e#963#964#0" expanded="true" />
-            <element signature="e#991#992#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Figures/TypeDefinition.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="867">
-          <caret line="55" selection-start-line="55" selection-end-line="55" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/log4j" />
     <entry file="file://$PROJECT_DIR$/src/main/java/Figures/Trapezium.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="34">
@@ -493,11 +605,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="88">
           <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
-          <folding>
-            <element signature="method#squareCubeOrRectangle#0;class#FigureManager#0" />
-            <element signature="method#squareFatManager#0;class#FigureManager#0" />
-            <element signature="method#squareTrapezium#0;class#FigureManager#0" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -522,20 +629,8 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Coordinates.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="13" selection-start-column="13" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Сoordinates.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Coordinates.txt" />
+    <entry file="file://$PROJECT_DIR$/Сoordinates.txt" />
     <entry file="jar://$MAVEN_REPOSITORY$/junit/junit/4.12/junit-4.12.jar!/org/junit/Assert.class">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="153">
@@ -550,13 +645,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/coordinates.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="15" lean-forward="true" selection-start-column="15" selection-end-column="15" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="408">
@@ -567,35 +655,71 @@
     <entry file="file://$PROJECT_DIR$/ShapesTask.iml">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore" />
     <entry file="file://$PROJECT_DIR$/src/main/resources/log4j.properties">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="255">
-          <caret line="15" column="38" selection-start-line="15" selection-start-column="38" selection-end-line="15" selection-end-column="38" />
+          <caret line="15" column="42" selection-start-line="15" selection-start-column="42" selection-end-line="15" selection-end-column="42" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/Figures/ReaderFromFileTest.java">
+    <entry file="file://$PROJECT_DIR$/src/test/java/Figures/ValidatorTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/.gitignore">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="7" selection-start-column="7" selection-end-column="7" />
+        <state relative-caret-position="272">
+          <caret line="19" column="1" lean-forward="true" selection-start-line="19" selection-start-column="1" selection-end-line="19" selection-end-column="1" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/Figures/ReaderFromFile.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="20" column="50" lean-forward="true" selection-start-line="20" selection-start-column="50" selection-end-line="20" selection-end-column="50" />
+        <state relative-caret-position="320">
+          <caret line="46" column="31" lean-forward="true" selection-start-line="46" selection-start-column="31" selection-end-line="46" selection-end-column="31" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#1775#1776#0" expanded="true" />
-            <element signature="e#1804#1805#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Figures/Validator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="17" column="50" lean-forward="true" selection-start-line="17" selection-start-column="7" selection-end-line="17" selection-end-column="50" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/coordinates.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="9" selection-start-column="8" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/Figures/ReaderFromFileTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="149">
+          <caret line="14" column="41" lean-forward="true" selection-start-line="14" selection-start-column="24" selection-end-line="14" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/Figures/TypeDefinitionTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="9" selection-start-line="9" selection-end-line="21" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Figures/TypeDefinition.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="336">
+          <caret line="36" column="71" lean-forward="true" selection-start-line="36" selection-start-column="71" selection-end-line="36" selection-end-column="71" />
+          <folding>
+            <element signature="e#251#252#0" expanded="true" />
+            <element signature="e#279#280#0" expanded="true" />
+            <element signature="e#1523#1524#0" expanded="true" />
+            <element signature="e#1550#1551#0" expanded="true" />
           </folding>
         </state>
       </provider>
