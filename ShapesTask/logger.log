@@ -1,46 +1,46 @@
 2018-12-12 22:11:19 ERROR ReaderFromFile:37 - [Ljava.lang.StackTraceElement;@21588809
-2018-12-12 22:16:34 INFO  Validator:18 - Its not point or a rectangle
+2018-12-12 22:16:34 INFO  validator:18 - Its not point or a rectangle
 2018-12-12 22:16:34 INFO  ReaderFromFile:29 - Figure are not created
 2018-12-12 22:17:47 ERROR ReaderFromFile:38 - [Ljava.lang.StackTraceElement;@21588809
-2018-12-12 22:24:56 INFO  Validator:18 - Its not point or a rectangle
+2018-12-12 22:24:56 INFO  validator:18 - Its not point or a rectangle
 2018-12-12 22:24:56 INFO  ReaderFromFile:30 - Figure are not created
-2018-12-12 22:34:16 INFO  Validator:18 - Its not point or a rectangle
+2018-12-12 22:34:16 INFO  validator:18 - Its not point or a rectangle
 2018-12-12 22:34:16 INFO  ReaderFromFile:30 - Figure are not created
-2018-12-13 08:37:52 INFO  Validator:18 - Its not point or a rectangle
+2018-12-13 08:37:52 INFO  validator:18 - Its not point or a rectangle
 2018-12-13 08:37:52 INFO  ReaderFromFile:30 - Figure are not created
-2018-12-13 08:44:51 INFO  Validator:18 - Its not point or a rectangle
+2018-12-13 08:44:51 INFO  validator:18 - Its not point or a rectangle
 2018-12-13 08:44:51 INFO  ReaderFromFile:30 - Figure are not created
-2018-12-13 08:45:30 INFO  Validator:18 - Its not point or a rectangle
+2018-12-13 08:45:30 INFO  validator:18 - Its not point or a rectangle
 2018-12-13 08:45:30 INFO  ReaderFromFile:30 - Figure are not created
-2018-12-13 08:46:02 INFO  Validator:18 - Its not point or a rectangle
+2018-12-13 08:46:02 INFO  validator:18 - Its not point or a rectangle
 2018-12-13 08:46:02 INFO  ReaderFromFile:30 - Figure are not created
-2018-12-13 08:48:35 INFO  Validator:18 - Its not point or a rectangle
+2018-12-13 08:48:35 INFO  validator:18 - Its not point or a rectangle
 2018-12-13 08:48:35 INFO  ReaderFromFile:33 - Figure are not created
-2018-12-13 08:49:12 INFO  Validator:18 - Its not point or a rectangle
+2018-12-13 08:49:12 INFO  validator:18 - Its not point or a rectangle
 2018-12-13 08:49:12 INFO  ReaderFromFile:33 - Figure are not created
 2018-12-13 08:49:54 INFO  ReaderFromFile:56 - Stroke has not valid format
-2018-12-13 08:49:54 INFO  Validator:18 - Its not point or a rectangle
+2018-12-13 08:49:54 INFO  validator:18 - Its not point or a rectangle
 2018-12-13 08:49:54 INFO  ReaderFromFile:35 - Figure are not created
 2018-12-13 08:50:48 INFO  ReaderFromFile:48 - Stroke has not valid format
 2018-12-13 08:50:52 INFO  ReaderFromFile:48 - Stroke has not valid format
 2018-12-13 08:52:52 INFO  ReaderFromFile:48 - Stroke has not valid format
-2018-12-13 08:52:52 INFO  Validator:18 - Its not point or a rectangle
+2018-12-13 08:52:52 INFO  validator:18 - Its not point or a rectangle
 2018-12-13 08:54:08 INFO  ReaderFromFile:48 - Stroke has not valid format
-2018-12-13 08:54:08 INFO  Validator:18 - Its not point or a rectangle
+2018-12-13 08:54:08 INFO  validator:18 - Its not point or a rectangle
 2018-12-13 08:55:24 INFO  ReaderFromFile:48 - Stroke has not valid format
-2018-12-13 08:55:24 INFO  Validator:18 - Its not point or a rectangle
+2018-12-13 08:55:24 INFO  validator:18 - Its not point or a rectangle
 2018-12-13 08:55:49 INFO  ReaderFromFile:48 - Stroke has not valid format
-2018-12-13 08:55:49 INFO  Validator:18 - Its not point or a rectangle
+2018-12-13 08:55:49 INFO  validator:18 - Its not point or a rectangle
 2018-12-13 08:56:20 INFO  ReaderFromFile:48 - Stroke has not valid format
-2018-12-13 08:56:20 INFO  Validator:24 - Its not point or a rectangle
+2018-12-13 08:56:20 INFO  validator:24 - Its not point or a rectangle
 2018-12-13 08:57:34 INFO  ReaderFromFile:48 - Stroke has not valid format
-2018-12-13 08:57:34 INFO  Validator:24 - Its not point or a rectangle
+2018-12-13 08:57:34 INFO  validator:24 - Its not point or a rectangle
 2018-12-13 08:58:45 INFO  ReaderFromFile:48 - Stroke has not valid format
-2018-12-13 08:58:45 INFO  Validator:25 - Its not point or a rectangle
+2018-12-13 08:58:45 INFO  validator:25 - Its not point or a rectangle
 2018-12-13 08:58:55 INFO  ReaderFromFile:48 - Stroke has not valid format
-2018-12-13 08:58:55 INFO  Validator:25 - Its not point or a rectangle
+2018-12-13 08:58:55 INFO  validator:25 - Its not point or a rectangle
 2018-12-13 08:59:27 INFO  ReaderFromFile:48 - Stroke has not valid format
-2018-12-13 08:59:27 INFO  Validator:26 - Its not point or a rectangle
+2018-12-13 08:59:27 INFO  validator:26 - Its not point or a rectangle
 2018-12-13 09:00:55 INFO  ReaderFromFile:48 - Stroke has not valid format
 2018-12-13 09:01:10 INFO  ReaderFromFile:48 - Stroke has not valid format
 2018-12-13 09:06:23 INFO  ReaderFromFile:48 - Stroke has not valid format
@@ -51,3 +51,63 @@
 2018-12-13 09:15:24 INFO  ReaderFromFile:48 - Stroke has not valid format
 2018-12-13 09:16:13 INFO  ReaderFromFile:48 - Stroke has not valid format
 2018-12-13 09:17:20 INFO  ReaderFromFile:48 - Stroke has not valid format
+2018-12-20 09:56:30 INFO  FileValidator:21 - Its not point or a rectangle
+2018-12-21 20:19:56 INFO  Warehouse:22 - This figure is already add
+2018-12-21 20:19:56 INFO  Warehouse:22 - This figure is already add
+2018-12-21 20:22:30 INFO  Warehouse:22 - This figure is already add
+2018-12-21 20:22:30 INFO  Warehouse:22 - This figure is already add
+2018-12-21 20:23:58 INFO  Warehouse:22 - This figure is already add 0  
+2018-12-21 20:23:58 INFO  Warehouse:22 - This figure is already add 0  
+2018-12-21 20:25:45 INFO  Warehouse:22 - This figure is already add 0  
+2018-12-21 20:25:45 INFO  Warehouse:22 - This figure is already add 0  
+2018-12-21 20:28:19 INFO  Warehouse:22 - This figure is already add 0  
+2018-12-21 20:28:19 INFO  Warehouse:22 - This figure is already add 0  
+2018-12-21 20:28:26 INFO  Warehouse:22 - This figure is already add 0  
+2018-12-21 20:28:26 INFO  Warehouse:22 - This figure is already add 0  
+2018-12-21 20:28:38 INFO  Warehouse:22 - This figure is already add 0  
+2018-12-21 20:28:38 INFO  Warehouse:22 - This figure is already add 0  
+2018-12-21 20:30:07 INFO  Warehouse:22 - This figure is already add 0  
+2018-12-21 20:30:07 INFO  Warehouse:22 - This figure is already add 0  
+2018-12-21 20:31:27 INFO  Warehouse:25 - This figure is already add 0  
+2018-12-21 20:31:27 INFO  Warehouse:22 - This figure is already add 0  
+2018-12-21 20:31:27 INFO  Warehouse:22 - This figure is already add 0  
+2018-12-21 20:34:18 INFO  Warehouse:25 - This figure is already add 1  
+2018-12-21 20:34:18 INFO  Warehouse:22 - This figure is already add 2  
+2018-12-21 20:34:18 INFO  Warehouse:22 - This figure is already add 3  
+2018-12-21 20:36:44 INFO  Warehouse:25 - This figure is already add 1  
+2018-12-21 20:37:05 INFO  Warehouse:25 - This figure is already add 2  
+2018-12-21 20:38:14 INFO  Warehouse:22 - This figure is already add 2  
+2018-12-21 20:38:14 INFO  Warehouse:22 - This figure is already add 3  
+2018-12-21 20:39:10 INFO  Warehouse:22 - This figure is already add 2  
+2018-12-21 20:39:10 INFO  Warehouse:22 - This figure is already add 3  
+2018-12-21 20:46:49 INFO  Warehouse:21 - This figure is already add 2
+2018-12-21 20:46:49 INFO  Warehouse:21 - This figure is already add 3
+2018-12-21 20:48:38 INFO  Warehouse:21 - This figure is already add 2
+2018-12-21 20:48:38 INFO  Warehouse:21 - This figure is already add 3
+2018-12-21 20:51:30 INFO  Warehouse:27 - This figure is already add 2
+2018-12-21 20:51:30 INFO  Warehouse:27 - This figure is already add 3
+2018-12-21 20:52:34 INFO  Warehouse:27 - This figure is already add 2
+2018-12-21 20:52:34 INFO  Warehouse:27 - This figure is already add 3
+2018-12-21 20:57:44 INFO  Warehouse:27 - This figure is already add 2
+2018-12-21 20:57:45 INFO  Warehouse:27 - This figure is already add 3
+2018-12-21 21:18:54 INFO  Warehouse:31 - Key is already exist
+2018-12-21 21:18:54 INFO  Warehouse:31 - Key is already exist
+2018-12-21 21:18:54 INFO  Warehouse:31 - Key is already exist
+2018-12-21 21:59:41 INFO  Warehouse:53 - [entity.Rectangle.refactorPerimeterAndSquare(Rectangle.java:28), action.ObserverFigure.notifyObservers(ObserverFigure.java:49), entity.Rectangle.notifyObserver(Rectangle.java:34), entity.Rectangle.setPoints(Rectangle.java:55), action.ObserverFigureTest.notifyObservers(ObserverFigureTest.java:50), sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method), sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62), sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43), java.lang.reflect.Method.invoke(Method.java:498), org.junit.runners.model.FrameworkMethod$1.runReflectiveCall(FrameworkMethod.java:50), org.junit.internal.runners.model.ReflectiveCallable.run(ReflectiveCallable.java:12), org.junit.runners.model.FrameworkMethod.invokeExplosively(FrameworkMethod.java:47), org.junit.internal.runners.statements.InvokeMethod.evaluate(InvokeMethod.java:17), org.junit.runners.ParentRunner.runLeaf(ParentRunner.java:325), org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:78), org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:57), org.junit.runners.ParentRunner$3.run(ParentRunner.java:290), org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:71), org.junit.runners.ParentRunner.runChildren(ParentRunner.java:288), org.junit.runners.ParentRunner.access$000(ParentRunner.java:58), org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:268), org.junit.runners.ParentRunner.run(ParentRunner.java:363), org.junit.runner.JUnitCore.run(JUnitCore.java:137), com.intellij.junit4.JUnit4IdeaTestRunner.startRunnerWithArgs(JUnit4IdeaTestRunner.java:68), com.intellij.rt.execution.junit.IdeaTestRunner$Repeater.startRunnerWithArgs(IdeaTestRunner.java:47), com.intellij.rt.execution.junit.JUnitStarter.prepareStreamsAndStart(JUnitStarter.java:242), com.intellij.rt.execution.junit.JUnitStarter.main(JUnitStarter.java:70)]
+2018-12-21 22:03:16 INFO  Warehouse:53 - [entity.Rectangle.refactorPerimeterAndSquare(Rectangle.java:28), action.ObserverFigure.notifyObservers(ObserverFigure.java:49), entity.Rectangle.notifyObserver(Rectangle.java:34), entity.Rectangle.setPoints(Rectangle.java:55), action.ObserverFigureTest.notifyObservers(ObserverFigureTest.java:50), sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method), sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62), sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43), java.lang.reflect.Method.invoke(Method.java:498), org.junit.runners.model.FrameworkMethod$1.runReflectiveCall(FrameworkMethod.java:50), org.junit.internal.runners.model.ReflectiveCallable.run(ReflectiveCallable.java:12), org.junit.runners.model.FrameworkMethod.invokeExplosively(FrameworkMethod.java:47), org.junit.internal.runners.statements.InvokeMethod.evaluate(InvokeMethod.java:17), org.junit.runners.ParentRunner.runLeaf(ParentRunner.java:325), org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:78), org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:57), org.junit.runners.ParentRunner$3.run(ParentRunner.java:290), org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:71), org.junit.runners.ParentRunner.runChildren(ParentRunner.java:288), org.junit.runners.ParentRunner.access$000(ParentRunner.java:58), org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:268), org.junit.runners.ParentRunner.run(ParentRunner.java:363), org.junit.runner.JUnitCore.run(JUnitCore.java:137), com.intellij.junit4.JUnit4IdeaTestRunner.startRunnerWithArgs(JUnit4IdeaTestRunner.java:68), com.intellij.rt.execution.junit.IdeaTestRunner$Repeater.startRunnerWithArgs(IdeaTestRunner.java:47), com.intellij.rt.execution.junit.JUnitStarter.prepareStreamsAndStart(JUnitStarter.java:242), com.intellij.rt.execution.junit.JUnitStarter.main(JUnitStarter.java:70)]
+2018-12-21 22:07:13 INFO  Warehouse:53 - [entity.Rectangle.refactorPerimeterAndSquare(Rectangle.java:28), action.ObserverFigure.notifyObservers(ObserverFigure.java:49), entity.Rectangle.notifyObserver(Rectangle.java:34), entity.Rectangle.setPoints(Rectangle.java:55), action.ObserverFigureTest.notifyObservers(ObserverFigureTest.java:50), sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method), sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62), sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43), java.lang.reflect.Method.invoke(Method.java:498), org.junit.runners.model.FrameworkMethod$1.runReflectiveCall(FrameworkMethod.java:50), org.junit.internal.runners.model.ReflectiveCallable.run(ReflectiveCallable.java:12), org.junit.runners.model.FrameworkMethod.invokeExplosively(FrameworkMethod.java:47), org.junit.internal.runners.statements.InvokeMethod.evaluate(InvokeMethod.java:17), org.junit.runners.ParentRunner.runLeaf(ParentRunner.java:325), org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:78), org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:57), org.junit.runners.ParentRunner$3.run(ParentRunner.java:290), org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:71), org.junit.runners.ParentRunner.runChildren(ParentRunner.java:288), org.junit.runners.ParentRunner.access$000(ParentRunner.java:58), org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:268), org.junit.runners.ParentRunner.run(ParentRunner.java:363), org.junit.runner.JUnitCore.run(JUnitCore.java:137), com.intellij.junit4.JUnit4IdeaTestRunner.startRunnerWithArgs(JUnit4IdeaTestRunner.java:68), com.intellij.rt.execution.junit.IdeaTestRunner$Repeater.startRunnerWithArgs(IdeaTestRunner.java:47), com.intellij.rt.execution.junit.JUnitStarter.prepareStreamsAndStart(JUnitStarter.java:242), com.intellij.rt.execution.junit.JUnitStarter.main(JUnitStarter.java:70)]
+2018-12-21 22:08:58 INFO  Warehouse:53 - [Ljava.lang.StackTraceElement;@11028347
+2018-12-21 22:12:26 INFO  Warehouse:53 - Size 3
+2018-12-21 22:14:45 INFO  Warehouse:53 - Size 3
+2018-12-21 22:15:57 INFO  Warehouse:53 - Size 3
+2018-12-21 22:17:12 INFO  Warehouse:50 - 0.0  0.0
+2018-12-21 22:17:12 INFO  Warehouse:54 - Size 3
+2018-12-21 22:19:37 INFO  Warehouse:50 - 
+Square = 0.0  
+Perimeter = 0.0
+2018-12-21 22:19:37 INFO  Warehouse:54 - Size 3
+2018-12-21 22:33:37 INFO  Warehouse:50 - Size 3
+2018-12-21 22:39:30 INFO  Warehouse:51 - []
+2018-12-21 22:39:30 INFO  Warehouse:55 - Size 3
+2018-12-21 22:40:00 INFO  Warehouse:51 - 0
+2018-12-21 22:40:00 INFO  Warehouse:55 - Size 3
