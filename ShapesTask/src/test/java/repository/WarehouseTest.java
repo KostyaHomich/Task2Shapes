@@ -1,15 +1,12 @@
 package repository;
 
-import action.ObserverFigure;
-import entity.Figure;
+import action.ObserverFigureImpl;
 import entity.Point;
 import entity.Rectangle;
 import org.junit.Test;
 
 import java.util.ArrayList;
 import java.util.List;
-
-import static org.junit.Assert.*;
 
 public class WarehouseTest {
 
@@ -26,11 +23,11 @@ public class WarehouseTest {
         Rectangle rect3=new Rectangle(list,3);
 
         Warehouse warehouse=new Warehouse();
-        ObserverFigure observerFigure=new ObserverFigure(warehouse);
+        ObserverFigureImpl observerFigureImpl =new ObserverFigureImpl(warehouse);
 
-        observerFigure.addObserver(rect1);
-        observerFigure.addObserver(rect2);
-        observerFigure.addObserver(rect3);
+        observerFigureImpl.addObserver(rect1);
+        observerFigureImpl.addObserver(rect2);
+        observerFigureImpl.addObserver(rect3);
 
 
         System.out.println(warehouse.toString());

@@ -13,67 +13,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="Warehouse.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/repository/Warehouse.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="269">
-              <caret line="32" column="5" selection-start-line="32" selection-start-column="5" selection-end-line="32" selection-end-column="5" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="method#addFigure#0;class#Warehouse#0" />
-                <element signature="method#removeFigure#0;class#Warehouse#0" />
-                <element signature="method#replaceFigure#0;class#Warehouse#0" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Rectangle.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/entity/Rectangle.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="323">
-              <caret line="23" column="46" lean-forward="true" selection-start-line="23" selection-start-column="46" selection-end-line="23" selection-end-column="46" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="method#Rectangle#0;class#Rectangle#0" />
-                <element signature="method#setPoints#0;class#Rectangle#0" />
-                <element signature="method#compareId#0;class#Rectangle#0" />
-                <element signature="method#comparePerimetor#0;class#Rectangle#0" />
-                <element signature="method#equals#0;class#Rectangle#0" />
-                <element signature="method#hashCode#0;class#Rectangle#0" />
-                <element signature="method#toString#0;class#Rectangle#0" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="RectangleTest.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/test/java/entity/RectangleTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="119">
-              <caret line="15" column="22" lean-forward="true" selection-start-line="15" selection-start-column="22" selection-end-line="15" selection-end-column="22" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="WarehouseTest.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/repository/WarehouseTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="85">
-              <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="FigureManager.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/action/FigureManager.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="575">
-              <caret line="52" selection-start-line="52" selection-end-line="52" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="method#perimeter#0;class#FigureManager#0" />
-              </folding>
+            <state relative-caret-position="238">
+              <caret line="17" selection-start-line="17" selection-end-line="17" />
             </state>
           </provider>
         </entry>
@@ -83,8 +27,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Class" />
         <option value="Interface" />
+        <option value="Class" />
         <option value="JUnit4 Test Class" />
       </list>
     </option>
@@ -92,9 +36,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/test/java/Figures/FileValidatorTest.java" />
-        <option value="$PROJECT_DIR$/src/main/java/actionClasses/SideCalculation.java" />
-        <option value="$PROJECT_DIR$/src/main/java/actionClasses/SquareFigure.java" />
         <option value="$PROJECT_DIR$/src/test/java/validators/FileValidatorTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/Repository/Figure.java" />
         <option value="$PROJECT_DIR$/src/main/java/entityClasses/Observer.java" />
@@ -135,13 +76,16 @@
         <option value="$PROJECT_DIR$/src/main/java/action/CalculateParam.java" />
         <option value="$PROJECT_DIR$/src/main/java/entity/Figure.java" />
         <option value="$PROJECT_DIR$/src/main/java/action/ObserverFigureInt.java" />
-        <option value="$PROJECT_DIR$/src/main/java/action/FigureManager.java" />
         <option value="$PROJECT_DIR$/src/main/java/action/ObserverFigure.java" />
         <option value="$PROJECT_DIR$/src/main/java/action/PointCreator.java" />
         <option value="$PROJECT_DIR$/src/test/java/action/FigureManagerTest.java" />
         <option value="$PROJECT_DIR$/src/test/java/action/ObserverFigureTest.java" />
         <option value="$PROJECT_DIR$/src/test/java/repository/WarehouseTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/entity/Rectangle.java" />
+        <option value="$PROJECT_DIR$/src/main/java/action/FigureManager.java" />
+        <option value="$PROJECT_DIR$/src/main/java/action/FigureSearcher.java" />
+        <option value="$PROJECT_DIR$/src/test/java/action/FigureSearcherTest.java" />
+        <option value="$PROJECT_DIR$/.gitignore" />
         <option value="$PROJECT_DIR$/src/test/java/entity/RectangleTest.java" />
       </list>
     </option>
@@ -189,7 +133,7 @@
   <component name="NodePackageJsonFileManager">
     <packageJsonPaths />
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds" extendedState="7">
     <option name="x" value="-10" />
     <option name="width" value="980" />
     <option name="height" value="1040" />
@@ -199,7 +143,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
       <pane id="Scope" />
       <pane id="AndroidView" />
       <pane id="ProjectPane">
@@ -301,6 +244,14 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="entity" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ShapesTask" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ShapesTask" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="Figures" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -323,6 +274,7 @@
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -343,8 +295,8 @@
   </component>
   <component name="RecentsManager">
     <key name="CreateTestDialog.RecentsKey">
-      <recent name="entity" />
       <recent name="action" />
+      <recent name="entity" />
       <recent name="repository" />
       <recent name="Repository" />
       <recent name="validators" />
@@ -365,7 +317,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.RectangleTest.compareTo">
+  <component name="RunManager" selected="JUnit.RectangleTest.compare">
     <configuration default="true" type="Application" factoryName="Application">
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
     </configuration>
@@ -531,10 +483,10 @@
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.RectangleTest.compareTo" />
         <item itemvalue="JUnit.RectangleTest.compare" />
-        <item itemvalue="JUnit.ObserverFigureTest.notifyObservers" />
         <item itemvalue="JUnit.WarehouseTest.WareHouseTest" />
+        <item itemvalue="JUnit.RectangleTest.compareTo" />
+        <item itemvalue="JUnit.ObserverFigureTest.notifyObservers" />
         <item itemvalue="JUnit.FigureManagerTest" />
       </list>
     </recent_temporary>
@@ -557,25 +509,11 @@
       <workItem from="1545391332295" duration="3920000" />
       <workItem from="1545411850646" duration="12270000" />
       <workItem from="1545424316671" duration="1395000" />
+      <workItem from="1545456798059" duration="2863000" />
     </task>
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="WarehouseTest_WareHouseTest - 2018.12.21 at 23h 15m 44s.xml">
-      <configuration name="WarehouseTest.WareHouseTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="WarehouseTest_WareHouseTest - 2018.12.21 at 23h 16m 34s.xml">
-      <configuration name="WarehouseTest.WareHouseTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="ObserverFigureTest_notifyObservers - 2018.12.21 at 23h 17m 25s.xml">
-      <configuration name="ObserverFigureTest.notifyObservers" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="RectangleTest_compare - 2018.12.21 at 23h 40m 50s.xml">
-      <configuration name="RectangleTest.compare" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="RectangleTest_compare - 2018.12.21 at 23h 44m 26s.xml">
-      <configuration name="RectangleTest.compare" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="RectangleTest_compare - 2018.12.21 at 23h 46m 05s.xml">
       <configuration name="RectangleTest.compare" configurationId="JUnit" />
     </history-entry>
@@ -591,12 +529,28 @@
     <history-entry file="RectangleTest_compareTo - 2018.12.21 at 23h 51m 38s.xml">
       <configuration name="RectangleTest.compareTo" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="RectangleTest_compare - 2018.12.22 at 08h 37m 35s.xml">
+      <configuration name="RectangleTest.compare" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="RectangleTest_compare - 2018.12.22 at 08h 37m 53s.xml">
+      <configuration name="RectangleTest.compare" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="RectangleTest_compare - 2018.12.22 at 08h 39m 03s.xml">
+      <configuration name="RectangleTest.compare" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="WarehouseTest_WareHouseTest - 2018.12.22 at 08h 39m 58s.xml">
+      <configuration name="WarehouseTest.WareHouseTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="RectangleTest_compare - 2018.12.22 at 08h 41m 29s.xml">
+      <configuration name="RectangleTest.compare" configurationId="JUnit" />
+    </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="53163000" />
+    <option name="totallyTimeSpent" value="56026000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -612,8 +566,9 @@
       <window_info anchor="bottom" id="Terminal" order="8" />
       <window_info id="Capture Tool" order="6" />
       <window_info id="Designer" order="3" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
       <window_info anchor="right" id="Database" order="6" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32965517" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info id="UI Designer" order="4" />
@@ -625,7 +580,6 @@
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Find" order="1" weight="0.32965517" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -636,31 +590,20 @@
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
-      <option name="time" value="21" />
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/test/java/entity/RectangleTest.java</url>
+          <line>17</line>
+          <properties class="entity.RectangleTest" method="compare">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="21" />
+        </line-breakpoint>
+      </breakpoints>
+      <option name="time" value="22" />
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/reader_file/ReaderFromFile.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="340">
-          <caret line="20" column="50" lean-forward="true" selection-start-line="20" selection-start-column="50" selection-end-line="20" selection-end-column="50" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/Figures/ReaderFromFileTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/log4j.properties">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="15" column="38" selection-start-line="15" selection-start-column="38" selection-end-line="15" selection-end-column="38" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="187">
@@ -705,7 +648,6 @@
     <entry file="file://$PROJECT_DIR$/ShapesTask.iml">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/.gitignore" />
     <entry file="file://$PROJECT_DIR$/src/test/java/Figures/TypeDefinitionTest.java" />
     <entry file="file://$PROJECT_DIR$/src/main/java/Figures/Side.java" />
     <entry file="file://$PROJECT_DIR$/src/main/java/Figures/TypeDefinition.java" />
@@ -798,7 +740,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/action/ObserverFigureInt.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/action/ObserverFigure.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="153">
           <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
@@ -821,28 +763,31 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/action/ObserverFigureTest.java" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/action/ObserverFigure.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/action/ObserverFigureImpl.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="105">
           <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/action/FigureManager.java">
+    <entry file="file://$PROJECT_DIR$/src/test/java/repository/WarehouseTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="575">
-          <caret line="52" selection-start-line="52" selection-end-line="52" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="method#perimeter#0;class#FigureManager#0" />
-          </folding>
+        <state relative-caret-position="136">
+          <caret line="23" column="46" lean-forward="true" selection-start-line="23" selection-start-column="46" selection-end-line="23" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_191/src.zip!/java/util/Comparator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-612">
+          <caret line="149" column="8" selection-start-line="149" selection-start-column="8" selection-end-line="149" selection-end-column="8" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/repository/Warehouse.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="269">
-          <caret line="32" column="5" selection-start-line="32" selection-start-column="5" selection-end-line="32" selection-end-column="5" />
+        <state relative-caret-position="99">
+          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="method#addFigure#0;class#Warehouse#0" />
@@ -852,17 +797,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/repository/WarehouseTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/entity/Rectangle.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="23" column="46" lean-forward="true" selection-start-line="23" selection-start-column="46" selection-end-line="23" selection-end-column="46" />
+        <state relative-caret-position="255">
+          <caret line="25" column="56" lean-forward="true" selection-start-line="25" selection-start-column="56" selection-end-line="25" selection-end-column="56" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="method#Rectangle#0;class#Rectangle#0" />
@@ -876,10 +814,47 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/entity/RectangleTest.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/action/FigureManager.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="11" column="86" lean-forward="true" selection-start-line="11" selection-start-column="3" selection-end-line="11" selection-end-column="86" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/action/FigureSearcher.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="119">
-          <caret line="15" column="22" lean-forward="true" selection-start-line="15" selection-start-column="22" selection-end-line="15" selection-end-column="22" />
+          <caret line="7" column="27" selection-start-line="7" selection-start-column="27" selection-end-line="7" selection-end-column="27" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="method#getMapFiguresByPerimeter#0;class#FigureSearcher#0" />
+            <element signature="method#getMapFiguresBySquare#0;class#FigureSearcher#0" />
+            <element signature="method#getMapFiguresById#0;class#FigureSearcher#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/action/FigureSearcherTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="30" column="9" lean-forward="true" selection-start-line="30" selection-start-column="9" selection-end-line="30" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" column="5" lean-forward="true" selection-start-line="1" selection-start-column="5" selection-end-line="1" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/entity/RectangleTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="17" selection-start-line="17" selection-end-line="17" />
         </state>
       </provider>
     </entry>
